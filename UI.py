@@ -1,5 +1,5 @@
 import streamlit as st
-from Agentic_AI_Youtube_Analyzer.youtube_analyzer import build_youtube_agent
+from youtube_analyzer import build_youtube_agent
 import pandas as pd
 
 
